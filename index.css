@@ -1,0 +1,60 @@
+body {
+    background: #abd9f8;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+.social-link {
+    display: block;
+    margin-bottom: 1.5rem;
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+.card {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.card:hover {
+    transition: 200ms;
+    transform: scale(1.02);
+}
+
+.social-link>img {
+    height: 30px;
+}
+
+.social-link{
+    color: white
+}
+
+.social-link:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-brand>img {
+    width: 100%;
+}
+
+#div-chibi>img {
+    width: 60%;
+}
+
+#discord-link {
+    background: #7289da;
+}
+
+#facebook-link {
+    background: #3b5998;
+}
+
+#youtube-link {
+    background: #c4302b;
+}
+
+#instagram-link {
+    background: #cc2366; 
+}
